@@ -1,22 +1,9 @@
 <!-- Banner Image -->
 <h1 align="center">Hello World!, I'm Faiyaz, a Machine Learning Engineer👋:</h1>
 
-<p align="center">
-  <a href="https://github.com/faiyaz-coder">
-    <img src="https://img.shields.io/github/followers/faiyaz-coder?label=Follow&style=social" alt="GitHub" />
-  </a>
-  <a href="mailto:faiyazkh4343@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/md-faiyaz-khan-ml/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
 ---
 
 ### 🛠️ Tech Stack
-#### 📌 Core Skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
