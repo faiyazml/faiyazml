@@ -6,14 +6,6 @@
 
  ---
 
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Faiyaz-coder/Faiyaz-coder/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Faiyaz-coder/Faiyaz-coder/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Faiyaz-coder/Faiyaz-coder/output/github-snake.svg" />
-</picture>
-
----
-
 # 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -40,6 +32,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Faiyaz-coder/Faiyaz-coder/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Faiyaz-coder/Faiyaz-coder/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Faiyaz-coder/Faiyaz-coder/output/github-snake.svg" />
+</picture>
 
 ---
 
