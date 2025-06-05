@@ -1,5 +1,7 @@
 <!-- Banner Image -->
-<h1 align="center">Hello World!, I'm Faiyaz, a Machine Learning Engineer👋:</h1>
+# Hello World!, I'm Faiyaz, a Machine Learning Engineer 👋🏼:
+
+🧠 currently diving deep into machine learning and AI via IIT Patna (2025–2026) <br> 💻 building intelligent systems & coding solutions with Python, NumPy, and Scikit-learn <br> 🔗 professionally active on LinkedIn, always open to learning & collaboration <br> 🌐 designing my personal portfolio to showcase my projects and growth <br> 🚀 aspiring to become a full-time Machine Learning Engineer and work on impactful real-world projects
 
 ---
 
