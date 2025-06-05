@@ -1,6 +1,3 @@
-<!-- Banner Image -->
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
 # **Hello World!, I'm Faiyaz, a Machine Learning Engineer** 👋🏼:
 
 👨🏼‍🎓 Currently learning AI & ML at IIT Patna (2025–2026) <br> 🧠 Building smart projects using Python & Scikit-Learn <br> 🤝 Active on [LinkedIn](https://www.linkedin.com/in/md-faiyaz-khan-ml) — Open to connect & collaborate
