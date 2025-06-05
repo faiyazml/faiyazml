@@ -1,8 +1,4 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/faiyaz-coder/faiyaz-coder/main/assets/banner.png" alt="Machine Learning Engineer Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi there 👋, I'm a Machine Learning Engineer</h1>
 
 <p align="center">
