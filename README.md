@@ -1,7 +1,5 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="github_banner.png" alt="GitHub Banner" />
-</p>
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # **Hello World!, I'm Faiyaz, a Machine Learning Engineer** 👋🏼:
 
