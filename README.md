@@ -18,6 +18,14 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Faiyaz-coder/Faiyaz-coder/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Faiyaz-coder/Faiyaz-coder/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Faiyaz-coder/Faiyaz-coder/output/github-snake.svg" />
+</picture>
+
+---
+
 ### 📊 GitHub Stats
 <table align="center" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; border: none;">
   <tr>
@@ -29,11 +37,3 @@
     </td>
   </tr>
 </table>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Faiyaz-coder/Faiyaz-coder/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Faiyaz-coder/Faiyaz-coder/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Faiyaz-coder/Faiyaz-coder/output/github-snake.svg" />
-</picture>
