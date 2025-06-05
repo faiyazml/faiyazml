@@ -1,22 +1,35 @@
 <!-- Banner Image -->
-# Hello World!, I'm Faiyaz, a Machine Learning Engineer 👋🏼:
+# **Hello World!, I'm Faiyaz, a Machine Learning Engineer** 👋🏼:
 
-🧠 currently diving deep into machine learning and AI via IIT Patna (2025–2026) <br> 💻 building intelligent systems & coding solutions with Python, NumPy, and Scikit-learn <br> 🔗 professionally active on LinkedIn, always open to learning & collaboration <br> 🌐 designing my personal portfolio to showcase my projects and growth <br> 🚀 aspiring to become a full-time Machine Learning Engineer and work on impactful real-world projects
+👨🏼‍🎓 Currently learning AI & ML at IIT Patna (2025–2026) <br> 🧠 Building smart projects using Python & Scikit-Learn <br> 🤝 Active on [LinkedIn](https://www.linkedin.com/in/md-faiyaz-khan-ml) — Open to connect & collaborate
+ <br> 🚀 Aiming to become a skilled Machine Learning Engineer
 
----
+# 💻 Tech Stack
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/MS--SQL--Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-4B0082?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAArklEQVQoz32SQQoCQRCGv0Mh4qkgmS6HA2CiDaCBBjY2VYZDmfQ1KM+8YNXGRg7gwfDGBElvM1X5GTAK0LIUMh5ATZbHsDfHgPN0AVUwX4kT13pI6XwYCT7BAQ48ly6xpZmAEsPJDy+LFCE+BTEKIQwt4vTfgFVkN+ch2WcsIg6qFgr6JpuXf6j4nA2d6ys1BYAAAAASUVORK5CYII=)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-3B82F6?style=for-the-badge&logo=beautifulsoup&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS--SQL--Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
