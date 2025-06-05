@@ -15,16 +15,6 @@
 
 ---
 
-### 🧠 About Me
-- 🔭 I’m currently working on AI & Machine Learning projects using real-world data.
-- 🧰 Skilled in Python, ML pipelines, data analysis, and model deployment using Docker.
-- 💡 I enjoy solving business problems using structured data and creating insightful visualizations.
-- 📈 Familiar with SQL (Microsoft SQL Server & MySQL) for efficient data querying.
-- 🔍 Currently enhancing my deep learning and model optimization skills.
-- 💬 Ask me about: Model development, data wrangling, pipelines, deployment.
-
----
-
 ### 🛠️ Tech Stack
 #### 📌 Core Skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -33,13 +23,9 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-#### 📦 Dev Tools:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-#### 💾 Databases:
 ![MS SQL Server](https://img.shields.io/badge/MS--SQL--Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -58,34 +44,6 @@
 </table>
 
 ---
-
-### 📂 My Projects
-Here are a few highlighted projects from my GitHub:
-
-- 🔍 **[Bank Management System](https://github.com/faiyaz-coder/bank-management-system)** — A complete Python OOP project.
-- 🍽️ **[Online Food Ordering System](https://github.com/faiyaz-coder/food-ordering-system)** — A web-based data project with SQL.
-- 📊 **[ML Regression & Classification Projects](https://github.com/faiyaz-coder/ml-projects)** — Exploratory projects using Scikit-Learn, Matplotlib, and Pandas.
-
----
-
-### 🌱 Currently Learning
-- Deep Learning (Neural Networks, CNNs, RNNs)
-- Model deployment and API integration
-- Advanced SQL analytics and window functions
-- Dockerized model serving
-
----
-
-### 📫 Let’s Connect
-You can reach out to me for:
-- Freelance ML Projects
-- Collaborations
-- Technical mentorship & discussions
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faiyaz-coder&color=blue" alt="Profile views" />
-</p>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Faiyaz-coder/Faiyaz-coder/output/github-snake-dark.svg" />
