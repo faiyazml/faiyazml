@@ -1,4 +1,11 @@
 <!-- Banner Image -->
+# **Hello World!, I'm Faiyaz, a Machine Learning Engineer** 👋🏼:
+
+👨🏼‍🎓 Currently learning AI & ML at IIT Patna (2025–2026) <br> 🧠 Building smart projects using Python & Scikit-Learn <br> 🤝 Active on [LinkedIn](https://www.linkedin.com/in/md-faiyaz-khan-ml) — Open to connect & collaborate
+ <br> 🚀 Aiming to become a skilled Machine Learning Engineer
+
+ ---
+
 ### 📊 GitHub Stats
 <table align="center" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; border: none;">
   <tr>
@@ -11,10 +18,7 @@
   </tr>
 </table>
 
-# **Hello World!, I'm Faiyaz, a Machine Learning Engineer** 👋🏼:
-
-👨🏼‍🎓 Currently learning AI & ML at IIT Patna (2025–2026) <br> 🧠 Building smart projects using Python & Scikit-Learn <br> 🤝 Active on [LinkedIn](https://www.linkedin.com/in/md-faiyaz-khan-ml) — Open to connect & collaborate
- <br> 🚀 Aiming to become a skilled Machine Learning Engineer
+---
 
 # 💻 Tech Stack
 
