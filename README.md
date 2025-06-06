@@ -17,7 +17,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
-![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup%20Library-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Beautiful Soup Badge](https://img.shields.io/badge/BeautifulSoup-Used%20in%20Projects-4B0082?style=for-the-badge&logo=python&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/MS--SQL--Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
