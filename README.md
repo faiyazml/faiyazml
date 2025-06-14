@@ -1,11 +1,12 @@
 # **Hello World!, I'm Faiyaz, a Machine Learning Engineer** 👋🏼:
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 👨🏼‍🎓 Currently learning AI & ML at IIT Patna (2025–2026) <br> 🧠 Building smart projects using Python & Scikit-Learn <br> 🤝 Active on [LinkedIn](https://www.linkedin.com/in/md-faiyaz-khan-ml) — Open to connect & collaborate
  <br> 🚀 Aiming to become a skilled Machine Learning Engineer
 
- ---
 
-# 💻 Tech Stack
+<h3 align="left">💻 Tech Stack</h3>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
