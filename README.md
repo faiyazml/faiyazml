@@ -45,12 +45,12 @@
 <table align="center" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td align="left" width="50%" style="border: none; padding: 0; margin: 0;">
-      <img src="https://github-readme-stats.vercel.app/api?username=faiyaz-coder&show_icons=true&theme=dark&hide_title=true&count_private=true&bg_color=000000&hide_border=true" alt="GitHub Stats" width="100%" style="border: none; outline: none;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=faiyazml&show_icons=true&theme=dark&hide_title=true&count_private=true&bg_color=000000&hide_border=true" alt="GitHub Stats" width="100%" style="border: none; outline: none;" />
     </td>
     <td align="right" width="50%" style="border: none; padding: 0; margin: 0;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiyaz-coder&theme=dark&hide_border=true&background=000000" alt="GitHub Streak" width="100%" style="border: none; outline: none;" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiyazml&theme=dark&hide_border=true&background=000000" alt="GitHub Streak" width="100%" style="border: none; outline: none;" />
     </td>
-  </tr>
+  </tr>
 </table>
 
 
