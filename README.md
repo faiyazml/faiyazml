@@ -41,7 +41,7 @@
 
 ---
 
-<h1 align="left">📊 GitHub Stats</h1>
+<h2 align="left">📊 GitHub Stats</h2>
 <table align="center" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td align="left" width="50%" style="border: none; padding: 0; margin: 0;">
