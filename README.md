@@ -47,16 +47,17 @@
 
 <h1 align="left">📊 GitHub Stats</h1>
 
-<table align="center" width="100%" cellpadding="0" cellspacing="0" border="0">
+<table align="center" width="100%">
   <tr>
     <td width="50%" align="left">
-      <img src="./assets/github-stats.svg" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=faiyazml&show_icons=true&theme=dark&hide_title=true&count_private=true&hide_border=true" alt="GitHub Stats" width="100%" />
     </td>
     <td width="50%" align="right">
-      <img src="./assets/github-streak.svg" alt="GitHub Streak" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiyazml&theme=dark&hide_border=true" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
 </table>
+
 
 
 
