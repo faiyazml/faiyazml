@@ -1,0 +1,39 @@
+name: 📊 Generate GitHub Stats & Streak SVG
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # Runs every 6 hours
+  workflow_dispatch:        # Also allows manual trigger
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⬇️ Checkout repo
+        uses: actions/checkout@v4
+
+      - name: 🛠️ Generate GitHub Stats SVG
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: faiyazml
+          show_icons: true
+          count_private: true
+          hide_title: true
+          theme: dark
+          hide_border: true
+          include_all_commits: true
+          bg_color: 000000
+          cache_seconds: 1800
+          output: ./assets/github-stats.svg
+
+      - name: 🔥 Download GitHub Streak SVG
+        run: |
+          curl "https://github-readme-streak-stats.herokuapp.com?user=faiyazml&theme=dark&hide_border=true&background=000000" -o ./assets/github-streak.svg
+
+      - name: 💾 Commit & Push Generated Images
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add assets/github-*.svg
+          git commit -m "🔄 Auto-update GitHub Stats & Streak Images" || echo "No changes"
+          git push
