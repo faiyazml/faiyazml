@@ -5,6 +5,9 @@ on:
     - cron: "0 */6 * * *"   # Runs every 6 hours
   workflow_dispatch:        # Also allows manual trigger
 
+permissions:
+  contents: write           # ⬅️ Important for committing files
+
 jobs:
   generate:
     runs-on: ubuntu-latest
